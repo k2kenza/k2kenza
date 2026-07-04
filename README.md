@@ -11,5 +11,4 @@ I am an AI & Machine Learning Developer with a strong focus on Reinforcement Lea
 - **Machine Learning / AI:** PyTorch, TensorFlow, OpenCV, Scikit-Learn
 - **Tools & Platforms:** Git, GitHub, Linux
 
-### 📊 GitHub Stats
-![Kenza's GitHub stats](https://github-readme-stats.vercel.app/api?username=k2kenza&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF)
+
